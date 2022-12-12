@@ -14,7 +14,7 @@
 ## 安装
 
 ```bash
-composer require vinchan/message-notify -vvv
+composer require jyil/message-notify -vvv
 ```
 
 ## 配置文件
@@ -22,7 +22,7 @@ composer require vinchan/message-notify -vvv
 发布配置文件`config/message.php`
 
 ```bash
-hyperf vendor:publish vinchan/message-notify
+hyperf vendor:publish jyil/message-notify
 ```
 
 
